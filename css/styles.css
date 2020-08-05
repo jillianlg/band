@@ -1,8 +1,13 @@
+* {
+  box-sizing: border-box;
+}
 .sidebar {
   width: 25%;
   float: right;
   background-color: lightcyan;
+  padding: 20px;
 }
 img {
   float: left;
+  padding: 20px;
 }
